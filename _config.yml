@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Novus-orsa
+title: Novus-Orsa
 # description: This will be meta HTML tag content. This can be ignored.
 description: 
 # baseurl: The subpath of your site
@@ -11,7 +11,7 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Novus ORSA
+username: Novus Orsa
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Future of Early Myopia Detection
@@ -81,8 +81,8 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
-
+contact_description: E-Mail us at 
+aditya.uni07@gmail.com ishaanjoardar7@gmail.com gauravdhanuka2000@gmail.com hiteshgarg2001@gmail.com dhruvjain192000@gmail.com shamsheerps@gmail.com 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
