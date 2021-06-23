@@ -81,8 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: E-Mail us at 
-aditya.uni07@gmail.com ishaanjoardar7@gmail.com gauravdhanuka2000@gmail.com hiteshgarg2001@gmail.com dhruvjain192000@gmail.com shamsheerps@gmail.com 
+contact_description: E-Mail us at aditya.uni07@gmail.com ishaanjoardar7@gmail.com gauravdhanuka2000@gmail.com hiteshgarg2001@gmail.com dhruvjain192000@gmail.com shamsheerps@gmail.com 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
