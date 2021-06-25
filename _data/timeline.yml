@@ -17,45 +17,24 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Recognizing the problem
+  date: Sep 2020
+  subtitle: As Part of our academics, we realised the need for Early myopia Detection amongst children
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: Brainstorming on a viable product
+  date: Oct 2020
+  subtitle: We went through several papers and searched through multiple technologies, in search of a viable product that will be easy to produce and distribute
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Creating a prototype
+  date: Nov 2020 - March 2021
+  subtitle: We began work on a working model that would detect myopia and attempted to enhace the accuracy by experimenting.
   timeline-side: left
+
+- title: The Future 
+  date: May 2021 - Present
+  subtitle: Currently with the working prototype, we are looking into methods of mass production and effective delivery. We are further attempting to design the product to make it more durable and inviting for kids.
+  timeline-side: right
+
+
